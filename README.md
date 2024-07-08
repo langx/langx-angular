@@ -1,8 +1,8 @@
-> This repo will not be maintaned anymore. Please visit the new repo at [langx/langx](https://github.com/langx/langx) for the latest updates.
+> [!IMPORTANT]
+> We have transitioned the application from **Angular** to **React Native**. Please visit the new repo at [langx/langx](https://github.com/langx/langx) for the latest updates.
 
-> We are transitioning the application from **Angular** to **React Native**.
-
-> We will keep this repo for historical reasons and for the community to refer to. Thank you for your support! :heart:
+> [!NOTE]
+> This repo will not be maintaned anymore. We will keep this repo for historical reasons and for the community to refer to. Thank you for your support! :heart:
 
  <h1 align="center"> LangX | Practice, Learn, Succeed! </h1>
 <p align="center">
