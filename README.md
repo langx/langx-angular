@@ -1,3 +1,9 @@
+> This repo will not be maintaned anymore. Please visit the new repo at [langx/langx](https://github.com/langx/langx) for the latest updates.
+
+> We are transitioning the application from **Angular** to **React Native**.
+
+> We will keep this repo for historical reasons and for the community to refer to. Thank you for your support! :heart:
+
  <h1 align="center"> LangX | Practice, Learn, Succeed! </h1>
 <p align="center">
   <a href="https://status.langx.io/" target="_blank"><img src="https://uptime.betterstack.com/status-badges/v1/monitor/vrew.svg" alt="Better Stack Badge"></a>
@@ -59,7 +65,7 @@ LangX is an application built with Angular and Ionic that helps users exchange d
 
 ## Tech Stack
 
-- **NEW APP: [Flutter Repo](https://github.com/langx/langx-flutter)**
+- **NEW APP: [React Native Repo](https://github.com/langx/langx)**
 
 ---
 
